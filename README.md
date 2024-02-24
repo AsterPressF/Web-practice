@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-HTML&amp;CSS&amp;JS
+HTML CSS JS
